@@ -13,3 +13,5 @@ Tracking people with a common security camera and a section with aerial view of 
 When the program is executing the result will be this:
 
 ![tracking_people](https://user-images.githubusercontent.com/31372472/71538014-8a8e4e00-28f2-11ea-8a53-d4aeeec6b1e5.png)
+
+On the left, the normal video with guide lines and people detection; and on the right, an aerial view that represents the movement of people in the video; also two people counters, number of people inside and outside.
