@@ -1,3 +1,3 @@
-Download de model "tracking_people_model.pb" here:
+Download the model "tracking_people_model.pb" here:
 
 https://drive.google.com/drive/folders/1MMh2wrOh10Mp_YuzRsGyPSnw0CZ3TuOu?usp=sharing
